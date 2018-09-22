@@ -1,0 +1,32 @@
+_repo: The-Prophet-s-Mantle_55244
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bland, Hubert
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '48247'
+    url: http://www.gutenberg.org/2009/agents/48247
+    wikipedia: https://en.wikipedia.org/wiki/Hubert_Bland
+  - agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2017-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Prophet's Mantle
+url: http://www.gutenberg.org/ebooks/55244
